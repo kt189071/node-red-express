@@ -2,6 +2,9 @@
     "name": "node-red-express",
     "description": "A simple node-red & express server",
     "version": "0.0.1",
+    "engines": {
+        "node": ">=18" // ここに更新したいNode.jsのバージョンを指定
+    },
     "private": false,
     "dependencies": {
         "express": "^4.18.1",

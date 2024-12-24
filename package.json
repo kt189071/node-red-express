@@ -9,7 +9,7 @@
     "dependencies": {
         "express": "^4.18.1",
         "moment": "^2.29.4",
-        "node-red": "^4.0.0"
+        "node-red": "^3.0.0"
     },
     "scripts": {
         "start": "node index.js"
